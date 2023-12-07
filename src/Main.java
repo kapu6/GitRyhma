@@ -3,7 +3,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Moi kaikki ryhmäläiset");
+		System.out.println("Moikka, käykäähän muokkaamassa kaikki tätä");
 
 	}
 
